@@ -1,95 +1,59 @@
-# 🚀 FlickBox Technologies
+# ⚡ FlickBox Technologies
 
-**Engineering Digital Systems for Modern Businesses**
+> **Transforming Ideas into High-Performance Digital Reality.**
 
-Welcome to the official GitHub organization of **FlickBox Technologies** — a Sri Lanka–based software engineering studio building scalable web platforms, mobile applications, and business automation systems.
-
-🌐 Website: https://www.flickbox.lk  
-📧 Email: flickboxhq@gmail.com  
+Welcome to the official GitHub organization of **FlickBox Technologies**, an elite software engineering and design agency based in Sri Lanka. We specialize in building fast, secure, and visually stunning web platforms, mobile apps, and custom enterprise software solutions.
 
 ---
 
-## 🏢 About FlickBox
+## 🚀 About Us
 
-FlickBox Technologies focuses on delivering reliable, scalable, and maintainable software solutions.
+At FlickBox, we pair handcrafted, pixel-perfect user interfaces with robust backend engineering. We operate at the intersection of aesthetic design and advanced web performance to deliver bespoke corporate websites, enterprise portals, and specialized campaign engines.
 
-We combine strong engineering principles with practical business understanding to build systems that are not only functional — but sustainable and growth-ready.
-
-### Core Expertise
-
-- Full-stack web application development  
-- Cross-platform mobile app engineering  
-- Custom ERP & business automation systems  
-- Cloud deployment & infrastructure setup  
-
-We believe great software is built with clarity, clean architecture, and long-term thinking.
+* 📍 **Location:** Kamburupitiya, Sri Lanka
+* 🌐 **Website:** [www.flickbox.lk](https://www.flickbox.lk)
+* ✉️ **Contact:** [flickboxhq@gmail.com](mailto:flickboxhq@gmail.com)
 
 ---
 
-## 🛠 Engineering Approach
+## 🛠️ Our Technology Stack & Expertise
 
-We follow a structured development lifecycle:
+We leverage a cutting-edge technological ecosystem to engineer robust products:
 
-1. **Discovery** – Requirement analysis & system planning  
-2. **Architecture** – Scalable system design  
-3. **Development** – Clean, modular, and maintainable code  
-4. **Testing & Deployment** – Quality assurance & production readiness  
-5. **Support & Iteration** – Continuous improvement  
-
-We prioritize:
-
-- Code quality  
-- Security best practices  
-- Scalable database design  
-- CI/CD workflows  
-- Documentation & maintainability  
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Frameworks** | React (Vite / Next.js), HTML5, JavaScript (ES6+) |
+| **Styling & Motion** | Tailwind CSS, Framer Motion, Vanilla CSS, Canvas Particle Engines |
+| **Backend & Databases** | Firebase (Firestore, RTDB, Remote Config), Node.js, Realm DB |
+| **Integrations** | EmailJS API, Google Analytics (GA4), ReCAPTCHA v2/v3 Security Guards |
+| **DevOps & Hosting** | GitHub Actions, Firebase Hosting, Staging Pipelines, Automated Quality Gates |
 
 ---
 
-## 📂 About This Organization
+## 📁 Key Repositories
 
-This organization hosts:
-
-- Client repositories (private)  
-- Internal tools & automation systems  
-- Proof-of-concept projects  
-- Experimental builds  
-- Engineering templates & standards  
-- Open-source utilities  
-
-Some repositories may be private due to client confidentiality.
+* 🌐 **`flickbox-web`** — The source repository for our official corporate web portal, containing our dynamic campaign manager, security layers, and interactive page templates. *(Proprietary)*
+* 🧪 **`flickbox-labs`** — Our experimental research directory where we prototype micro-animations, particle simulations, and new UI concepts.
+* 📦 **`flickbox-products`** — Custom business intelligence tools, billing modules, and cash-balancing dashboards developed for our client ecosystem. *(Proprietary)*
 
 ---
 
-## 👤 Founder
+## 🛡️ Intellectual Property & Licensing
 
-**Pubudu Ishan Wickrama Arachchi**  
-Founder & Software Engineer  
-B.ICT (Honours), University of Colombo  
+All repositories maintained under this organization (unless explicitly marked with an open-source license) are governed by our **Proprietary License**. 
 
-Focused on building scalable digital infrastructure for growing businesses.
-
----
-
-## 🤝 Contributions
-
-For public repositories:
-
-- Bug reports  
-- Feature suggestions  
-- Pull requests  
-
-Please follow repository-specific contribution guidelines.
+* **All Rights Reserved:** Source code, designs, and media assets remain the exclusive property of FlickBox Technologies and its authorized owners.
+* **Access Policy:** Unauthorized copying, redistribution, modification, or hosting of proprietary FlickBox software is strictly prohibited.
 
 ---
 
-## 📜 Licensing
+## 📬 Connect With Us
 
-Each repository specifies its own license.  
-Please review individual project licenses before reuse or distribution.
+We are always looking to collaborate on high-end engineering projects and digital transformations. Reach out to our core team:
+
+* **Email:** [flickboxhq@gmail.com](mailto:flickboxhq@gmail.com)
+* **Phone:** +94 77 88 30 166
+* **Location:** No 50, Sapumal Uyana, Sapugoda, Kamburupitiya, Sri Lanka
 
 ---
-
-© 2026 FlickBox Technologies  
-Privacy Policy: https://www.flickbox.lk/privacy-policy  
-Terms of Service: https://www.flickbox.lk/terms-of-service  
+*© 2026 FlickBox Technologies. All Rights Reserved.*

@@ -1,6 +1,6 @@
 # ⚡ FlickBox Technologies
 
-> **Transforming Ideas into High-Performance Digital Reality.**
+> **Transforming Ideas into Reality.**
 
 Welcome to the official GitHub organization of **FlickBox Technologies**, an elite software engineering and design agency based in Sri Lanka. We specialize in building fast, secure, and visually stunning web platforms, mobile apps, and custom enterprise software solutions.
 
@@ -27,14 +27,6 @@ We leverage a cutting-edge technological ecosystem to engineer robust products:
 | **Backend & Databases** | Firebase (Firestore, RTDB, Remote Config), Node.js, Realm DB |
 | **Integrations** | EmailJS API, Google Analytics (GA4), ReCAPTCHA v2/v3 Security Guards |
 | **DevOps & Hosting** | GitHub Actions, Firebase Hosting, Staging Pipelines, Automated Quality Gates |
-
----
-
-## 📁 Key Repositories
-
-* 🌐 **`flickbox-web`** — The source repository for our official corporate web portal, containing our dynamic campaign manager, security layers, and interactive page templates. *(Proprietary)*
-* 🧪 **`flickbox-labs`** — Our experimental research directory where we prototype micro-animations, particle simulations, and new UI concepts.
-* 📦 **`flickbox-products`** — Custom business intelligence tools, billing modules, and cash-balancing dashboards developed for our client ecosystem. *(Proprietary)*
 
 ---
 
